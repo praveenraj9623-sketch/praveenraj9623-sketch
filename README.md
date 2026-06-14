@@ -122,22 +122,6 @@ Executive Summary + Document Q&A + Evidence Trace
 
 ---
 
-## 🔗 Live Project Links
-
-| Project | Live App | GitHub Repository |
-|---|---|---|
-| Enterprise Document Intelligence v2.0 | [Open App](https://enterprise-document-agentic-ai-v20-fqmmi6vktezorfdwxrrcep.streamlit.app/) | [Repo](https://github.com/praveenraj9623-sketch/enterprise-document-agentic-ai-v2.0) |
-| LaborIQ v2.0 — Labor Market Intelligence | [Open App](https://laboriq-v20-pap77tsgkbeqgnfrjmpjsx.streamlit.app/) | [Repo](https://github.com/praveenraj9623-sketch/laboriq-v2.0) |
-| Retail Demand Forecasting & Anomaly Intelligence v2.0 | [Open App](https://retail-demand-anomaly-intelligence-v20-vny644tmhb7ux2exmqgvmg.streamlit.app/) | [Repo](https://github.com/praveenraj9623-sketch/retail-demand-anomaly-intelligence-v2.0) |
-| Customer Churn Intelligence Platform | [Open App](https://customer-churn-intelligence-platform-gleon7xy6mucndm74impde.streamlit.app/) | [Repo](https://github.com/praveenraj9623-sketch/customer-churn-intelligence-platform) |
-| Real-Time Fraud Detection System | [Open App](https://real-time-fraud-detection-system-gq9hm3szpg5dnakhzw8kff.streamlit.app/) | [Repo](https://github.com/praveenraj9623-sketch/Real-Time-Fraud-Detection-System) |
-| End-to-End MLOps & Model Governance Platform | [Open App](https://end-to-end-mlops-model-governance-platform-et3unrnhvmpv6xscxql.streamlit.app/) | [Repo](https://github.com/praveenraj9623-sketch/End-to-End-MLOps-Model-Governance-Platform) |
-| Computer Vision Quality Inspection | — | [Repo](https://github.com/praveenraj9623-sketch/computer-vision-quality-inspection) |
-| Credit Risk Analytics Dashboard | — | [Repo](https://github.com/praveenraj9623-sketch/credit-risk-analytics-ml-dashboard) |
-| Business Portfolio Risk Analysis | — | [Repo](https://github.com/praveenraj9623-sketch/Business-Portfolio-Risk-Analysis) |
-
----
-
 ## 📦 Project Portfolio
 
 <table>
